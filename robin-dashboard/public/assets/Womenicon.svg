@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25.282" height="35" viewBox="0 0 25.282 35">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #828cb3;
+      }
+
+      .cls-2 {
+        fill: #a1dbcb;
+      }
+
+      .cls-3 {
+        fill: #6dbd98;
+      }
+
+      .cls-4 {
+        fill: #ffcab9;
+      }
+
+      .cls-5 {
+        fill: #fabba7;
+      }
+
+      .cls-6 {
+        fill: #717eb3;
+      }
+    </style>
+  </defs>
+  <g id="Womenicon" transform="translate(0 -0.06)">
+    <path id="Path_87" data-name="Path 87" class="cls-1" d="M303.082,95.491h0a4.552,4.552,0,0,1-4.552-4.552V74.552A4.552,4.552,0,0,1,303.082,70h0a4.552,4.552,0,0,1,4.552,4.552V90.938a4.552,4.552,0,0,1-4.552,4.553Z" transform="translate(-282.352 -69.94)"/>
+    <ellipse id="Ellipse_7" data-name="Ellipse 7" class="cls-2" cx="2.86" cy="2.859" rx="2.86" ry="2.859" transform="translate(14.15 1.684)"/>
+    <path id="Path_88" data-name="Path 88" class="cls-3" d="M99.48,335.921v-5.968a8.6,8.6,0,0,1,8.6-8.6h5.365a8.6,8.6,0,0,1,8.6,8.6v5.967Z" transform="translate(-99.48 -300.861)"/>
+    <path id="Path_89" data-name="Path 89" class="cls-4" d="M207.2,333h0a2.755,2.755,0,0,1-2.755-2.755V326.51h5.513v3.733A2.756,2.756,0,0,1,207.2,333Z" transform="translate(-195.909 -305.601)"/>
+    <path id="Path_90" data-name="Path 90" class="cls-4" d="M154.2,119.581h-.021a7.433,7.433,0,0,1-7.433-7.433v-6.315a7.434,7.434,0,0,1,7.432-7.433h.022l7.433,10.033v3.714a7.433,7.433,0,0,1-7.434,7.434Z" transform="translate(-142.908 -96.032)"/>
+    <path id="Path_91" data-name="Path 91" class="cls-5" d="M224.159,167.85v8.1a7.435,7.435,0,0,1-5.818,7.256,7.45,7.45,0,0,0,1.614.177h.021a7.433,7.433,0,0,0,7.433-7.433v-3.714Z" transform="translate(-208.68 -159.837)"/>
+    <path id="Path_92" data-name="Path 92" class="cls-1" d="M146.75,109.009v-3.145a7.443,7.443,0,1,1,14.887,0v2.586c-4.358,0-5.763-4.36-5.763-4.36s-1.177,4.917-9.124,4.917" transform="translate(-142.908 -96.05)"/>
+    <path id="Path_93" data-name="Path 93" class="cls-6" d="M219.97,98.4a7.488,7.488,0,0,0-1.624.179,7.448,7.448,0,0,1,5.817,7.267v1.587a5.553,5.553,0,0,0,3.251,1v-2.586A7.445,7.445,0,0,0,219.97,98.4Z" transform="translate(-208.685 -96.032)"/>
+  </g>
+</svg>

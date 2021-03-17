@@ -1,0 +1,23 @@
+.h-100{
+    height: 100vh;
+}
+
+.h-100p{
+    height: 100%;
+}
+
+.hover-blue:hover{
+    border-color: rgba(91, 153, 210,100);
+    background-color: rgba(91, 153, 210,100);
+}
+
+.hover-blue-alt:hover{
+    border-color: rgba(91, 153, 210,100);
+    background-color: rgba(91, 153, 210,100);
+    color: white;
+}
+
+.hover-blue-alt:hover select{
+    color: white;
+}
+
